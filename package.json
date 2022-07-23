@@ -1,0 +1,26 @@
+{
+  "name": "fast-search",
+  "version": "1.0.0",
+  "description": "Uma biblioteca que contem buscas baseadas em algoritmos!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graxz/fastSearch.git"
+  },
+  "keywords": [
+    "algoritmos",
+    "buscas"
+  ],
+  "author": "Isaddora Freitas <isaddorafreitasar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/graxz/fastSearch/issues"
+  },
+  "homepage": "https://github.com/graxz/fastSearch#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.6"
+  }
+}
