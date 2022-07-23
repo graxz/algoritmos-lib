@@ -1,4 +1,4 @@
-function binarySearch(arr: Array<string | number>, item: string | number) {
+function binarySearch(arr, item) {
   let first = 0
   let last = arr.length
 
@@ -18,4 +18,4 @@ function binarySearch(arr: Array<string | number>, item: string | number) {
   return null
 }
 
-export default binarySearch
+module.exports = binarySearch
