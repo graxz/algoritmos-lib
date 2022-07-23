@@ -1,5 +1,5 @@
 {
-  "name": "fast-search",
+  "name": "algoritm-search",
   "version": "1.0.0",
   "description": "Uma biblioteca que contem buscas baseadas em algoritmos!",
   "main": "index.js",
