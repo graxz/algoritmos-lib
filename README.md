@@ -1,9 +1,18 @@
-# fastSearch
+# Algoritm Search
 Uma biblioteca que faz buscas baseadas em algoritmos!
 
 ## Search
 
 #### Busca binaria
+
+Para implementar...
+
+Caso voce queira procurar um numero com mais agilidade (quanto mais o array aumenta mais rapida a busca fica!) pode usar da forma abaixo :)
+
+```javascript
+const response = binarySearch(arrayOrdenado, elementoParaBuscar)
+```    
+
 A busca binaria funciona da seguinte forma...
 Se temos um array (sempre ordenado) e tentamos achar dado um numero em qualquer posicao, no pior dos cenarios teremos que percorrer o array por completo. Com a busca binaria a cada busca nos dividimos o array.
 
