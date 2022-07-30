@@ -1,6 +1,6 @@
 {
   "name": "algoritmo",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Uma biblioteca que contem buscas baseadas em algoritmos!",
   "main": "src/index.js",
   "scripts": {
