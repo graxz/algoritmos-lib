@@ -1,5 +1,5 @@
 {
-  "name": "algoritmos",
+  "name": "algoritmo",
   "version": "1.0.4",
   "description": "Uma biblioteca que contem buscas baseadas em algoritmos!",
   "main": "src/index.js",
