@@ -76,9 +76,9 @@ E aqui nossa busca acaba! Caso fosse o elemento 5 ou 7 nossa busca iria acabar n
 
 OBS: A busca binaria só é possivel com arrays ordenados!
 
-##Sort
+## Sort
 
-####Quicksort
+#### Quicksort
 
 Para implementar...
 
@@ -108,7 +108,7 @@ E assim o codigo funciona ate o final...
 
 O pulo do gato desse algoritmo é que ele não executa de fato nada ate chegar ao final, quando chegamos ao final depois de dividir o array o maximo possivel, neste momento, ele executa de fato o codigo, ao contrario somando ordenadamente todos os arrays e agora sim temos nosso array ordenado!
 
-##Agradecimento e Creditos
+## Agradecimento e Creditos
 
 Agradeço totalmente ao _**Aditya Y. Bhargava**_ por escrever um livro tão necessario como _**Entendendo Algoritmos**_. Essa biblioteca serve como um estudo para mim que estou aprendendo a aplicar em meu dia a dia!
 
