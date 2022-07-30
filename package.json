@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/graxz/fastSearch.git"
+    "url": "git+https://github.com/graxz/algoritmos.git"
   },
   "keywords": [
     "algoritmos",
@@ -17,9 +17,9 @@
   "author": "Isaddora Freitas <isaddorafreitasar@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/graxz/fastSearch/issues"
+    "url": "https://github.com/graxz/algoritmos/issues"
   },
-  "homepage": "https://github.com/graxz/fastSearch#readme",
+  "homepage": "https://github.com/graxz/algoritmos#readme",
   "devDependencies": {
     "@types/node": "^18.0.6"
   }
