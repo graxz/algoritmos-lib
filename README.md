@@ -9,7 +9,7 @@ Para importar em seu projeto seria...
 const algoritmos = require('algoritmos')
 ```
 
-##Indice
+## Indice
 
 * [Search](#Search)
 * [Sort](#Sort)
