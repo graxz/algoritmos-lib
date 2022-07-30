@@ -12,7 +12,7 @@ const algoritmos = require('algoritmos')
 ##Indice
 
 * [Search](#Search)
-* [Badges](#badges)
+* [Sort](#Sort)
 
 ## Search
 
